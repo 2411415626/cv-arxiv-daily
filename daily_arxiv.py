@@ -218,12 +218,23 @@ def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
     '''
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
+      # 自动创建目录
+    os.makedirs(os.path.dirname(filename) or ".", exist_ok=True)
+
+    # 若文件不存在就当成空 dict
+    try:
+        with open(filename, "r") as f:
+            m = json.load(f) if f.read() else {}
+    except FileNotFoundError:
+        m = {}
+
+    # json_data = m.copy()
+    # with open(filename,"r") as f:
+    #     content = f.read()
+    #     if not content:
+    #         m = {}
+    #     else:
+    #         m = json.loads(content)
 
     json_data = m.copy()
 
