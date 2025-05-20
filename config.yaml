@@ -22,18 +22,35 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+  "Codec":                       # 传统／标准化编解码
+    filters: [
+      "codec", "video codec", "image codec",
+      "entropy coding", "entropy model",
+      "HEVC", "H.265", "VVC", "H.266", "AV1"
+    ]
+
+  "Learned Compression":         # 深度学习/神经压缩
+    filters: [
+      "learned image compression", "learned video compression",
+      "neural image compression", "neural video compression",
+      "deep image compression", "deep video compression",
+      "end to end compression", "neural codec",
+      "entropy model", "GAIN unit", "hyperprior"
+    ]
+
+  "Variable Bitrate":            # 可变码率 / 可伸缩
+    filters: [
+      "variable bitrate", "variable bit-rate", "variable rate",
+      "continuous rate", "rate scalable", "scalable compression",
+      "bitrate adaptation", "rate control", "scalable coding"
+    ]
+
+  "Large & Multimodal Models":   # SOTA 大模型 / 多模态
+    filters: [
+      "foundation model", "large vision model", "vision-language model",
+      "multimodal", "multi-modal", "vision language", "VLM",
+      "CLIP", "ImageBind", "EVA", "SAM", "Segment Anything",
+      "ViT", "Vision Transformer", "Swin Transformer",
+      "DINOv2", "LLAVA", "Video-LLaMA", "Video-LLM"
+    ]
+
