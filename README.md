@@ -1,14 +1,26 @@
----
-layout: default
----
-
 ## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#slam>SLAM</a></li>
+    <li><a href=#sfm>SFM</a></li>
+    <li><a href=#visual-localization>Visual Localization</a></li>
+    <li><a href=#keypoint-detection>Keypoint Detection</a></li>
+    <li><a href=#image-matching>Image Matching</a></li>
+    <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#codec>Codec</a></li>
+    <li><a href=#learned-compression>Learned Compression</a></li>
+    <li><a href=#variable-bitrate>Variable Bitrate</a></li>
+    <li><a href=#large-&-multimodal-models>Large & Multimodal Models</a></li>
+  </ol>
+</details>
+
 ## SLAM
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
 |**2025-05-18**|**VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**|Dominic Maggio et.al.|[2505.12549](http://arxiv.org/abs/2505.12549)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
@@ -946,10 +958,12 @@ layout: default
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+
 ## SFM
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2025-05-18**|**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**|Dong Yang et.al.|[2505.12226](http://arxiv.org/abs/2505.12226)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-13**|**Unveiling the Best Practices for Applying Speech Foundation Models to Speech Intelligibility Prediction for Hearing-Impaired People**|Haoshuai Zhou et.al.|[2505.08215](http://arxiv.org/abs/2505.08215)|null|
@@ -1352,10 +1366,12 @@ layout: default
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+
 ## Visual Localization
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
 |**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
@@ -2497,10 +2513,12 @@ layout: default
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+
 ## Keypoint Detection
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246](http://arxiv.org/abs/2505.12246)|null|
 |**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130](http://arxiv.org/abs/2505.12130)|null|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
@@ -2808,10 +2826,12 @@ layout: default
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+
 ## Image Matching
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
@@ -3137,10 +3157,12 @@ layout: default
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+
 ## NeRF
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
 |**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
@@ -4740,10 +4762,12 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+
 ## Codec
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2025-05-19**|**Universal Semantic Disentangled Privacy-preserving Speech Representation Learning**|Biel Tura Vecino et.al.|[2505.13085](http://arxiv.org/abs/2505.13085)|null|
 |**2025-05-19**|**DualCodec: A Low-Frame-Rate, Semantically-Enhanced Neural Audio Codec for Speech Generation**|Jiaqi Li et.al.|[2505.13000](http://arxiv.org/abs/2505.13000)|null|
 |**2025-05-19**|**Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy**|Xuanjun Chen et.al.|[2505.12994](http://arxiv.org/abs/2505.12994)|null|
@@ -4755,10 +4779,12 @@ layout: default
 |**2025-05-10**|**RADE: A Neural Codec for Transmitting Speech over HF Radio Channels**|David Rowe et.al.|[2505.06671](http://arxiv.org/abs/2505.06671)|null|
 |**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853](http://arxiv.org/abs/2505.05853)|null|
 
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+
 ## Learned Compression
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2025-05-19**|**Higher fidelity perceptual image and video compression with a latent conditioned residual denoising diffusion model**|Jonas Brenig et.al.|[2505.13152](http://arxiv.org/abs/2505.13152)|**[link](https://github.com/jbrenig/rescdc)**|
 |**2025-05-19**|**Multi-Reference and Adaptive Nonlinear Transform Source-Channel Coding for Wireless Image Semantic Transmission**|Cheng Yuan et.al.|[2505.12740](http://arxiv.org/abs/2505.12740)|null|
 |**2025-05-15**|**UDDETTS: Unifying Discrete and Dimensional Emotions for Controllable Emotional Text-to-Speech**|Jiaxuan Liu et.al.|[2505.10599](http://arxiv.org/abs/2505.10599)|null|
@@ -4770,10 +4796,12 @@ layout: default
 |**2025-05-08**|**Toward a Sparse and Interpretable Audio Codec**|John Vinyard et.al.|[2505.05654](http://arxiv.org/abs/2505.05654)|**[link](https://github.com/JohnVinyard/matching-pursuit)**|
 |**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310](http://arxiv.org/abs/2505.03310)|null|
 
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+
 ## Variable Bitrate
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|null|
 |**2025-05-14**|**Model-free High Dimensional Mediator Selection with False Discovery Rate Control**|Runqiu Wang et.al.|[2505.09105](http://arxiv.org/abs/2505.09105)|null|
 |**2025-05-11**|**Semiparametric Weighted Spline Regression (SWSR) in Confirmatory Clinical Trials with Time-Varying Placebo Effects**|Tianyu Zhan et.al.|[2505.06939](http://arxiv.org/abs/2505.06939)|**[link](https://github.com/tian-yu-zhan/SWSR)**|
@@ -4785,10 +4813,12 @@ layout: default
 |**2025-04-30**|**Data-driven operator learning for energy-efficient building control**|Yuexin Bian et.al.|[2504.21243](http://arxiv.org/abs/2504.21243)|null|
 |**2025-04-29**|**Task-Oriented Semantic Communication with Importance-Aware Rate Control**|Zhiye Sun et.al.|[2504.20441](http://arxiv.org/abs/2504.20441)|null|
 
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+
 ## Large & Multimodal Models
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2025-05-19**|**ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**|Liyan Tang et.al.|[2505.13444](http://arxiv.org/abs/2505.13444)|null|
 |**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430](http://arxiv.org/abs/2505.13430)|null|
 |**2025-05-19**|**MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision**|Lingxiao Du et.al.|[2505.13427](http://arxiv.org/abs/2505.13427)|**[link](https://github.com/modalminds/mm-prm)**|
@@ -4799,6 +4829,8 @@ layout: default
 |**2025-05-19**|**Unlabeled Data or Pre-trained Model: Rethinking Semi-Supervised Learning and Pretrain-Finetuning**|Song-Lin Li et.al.|[2505.13317](http://arxiv.org/abs/2505.13317)|null|
 |**2025-05-19**|**RBF++: Quantifying and Optimizing Reasoning Boundaries across Measurable and Unmeasurable Capabilities for Chain-of-Thought Reasoning**|Qiguang Chen et.al.|[2505.13307](http://arxiv.org/abs/2505.13307)|**[link](https://github.com/lightchen233/reasoning-boundary)**|
 |**2025-05-19**|**I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models**|Alice Plebe et.al.|[2505.13302](http://arxiv.org/abs/2505.13302)|**[link](https://github.com/3lis/misinfo_vlm)**|
+
+<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
