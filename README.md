@@ -1,4 +1,4 @@
-## Updated on 2025.05.26
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Position Dependent Prediction Combination For Intra-Frame Video Coding**|Amir Said et.al.|[2505.23672](http://arxiv.org/abs/2505.23672)|null|
+|**2025-05-29**|**Low-Complexity Transform Adjustments For Video Coding**|Amir Said et.al.|[2505.23618](http://arxiv.org/abs/2505.23618)|null|
+|**2025-05-29**|**Vision-Integrated High-Quality Neural Speech Coding**|Yao Guo et.al.|[2505.23379](http://arxiv.org/abs/2505.23379)|null|
+|**2025-05-28**|**3DGS Compression with Sparsity-guided Hierarchical Transform Coding**|Hao Xu et.al.|[2505.22908](http://arxiv.org/abs/2505.22908)|null|
+|**2025-05-28**|**Towards General Discrete Speech Codec for Complex Acoustic Environments: A Study of Reconstruction and Downstream Task Consistency**|Haoran Wang et.al.|[2505.22515](http://arxiv.org/abs/2505.22515)|null|
+|**2025-05-28**|**Synonymous Variational Inference for Perceptual Image Compression**|Zijian Liang et.al.|[2505.22438](http://arxiv.org/abs/2505.22438)|null|
+|**2025-05-27**|**Music Source Restoration**|Yongyi Zang et.al.|[2505.21827](http://arxiv.org/abs/2505.21827)|null|
+|**2025-05-27**|**Highly Efficient Non-Separable Transforms for Next Generation Video Coding**|Amir Said et.al.|[2505.21728](http://arxiv.org/abs/2505.21728)|null|
+|**2025-05-28**|**A Comprehensive Real-World Assessment of Audio Watermarking Algorithms: Will They Survive Neural Codecs?**|Yigitcan Özer et.al.|[2505.19663](http://arxiv.org/abs/2505.19663)|null|
+|**2025-05-26**|**VoiceStar: Robust Zero-Shot Autoregressive TTS with Duration Control and Extrapolation**|Puyuan Peng et.al.|[2505.19462](http://arxiv.org/abs/2505.19462)|**[link](https://github.com/jasonppy/voicestar)**|
 |**2025-05-22**|**Unlocking Temporal Flexibility: Neural Speech Codec with Variable Frame Rate**|Hanglei Zhang et.al.|[2505.16845](http://arxiv.org/abs/2505.16845)|null|
 |**2025-05-22**|**One-Step Diffusion-Based Image Compression with Semantic Distillation**|Naifu Xue et.al.|[2505.16687](http://arxiv.org/abs/2505.16687)|null|
 |**2025-05-22**|**UBGAN: Enhancing Coded Speech with Blind and Guided Bandwidth Extension**|Kishan Gupta et.al.|[2505.16404](http://arxiv.org/abs/2505.16404)|null|
@@ -36,12 +46,16 @@
 |**2025-05-10**|**RADE: A Neural Codec for Transmitting Speech over HF Radio Channels**|David Rowe et.al.|[2505.06671](http://arxiv.org/abs/2505.06671)|null|
 |**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853](http://arxiv.org/abs/2505.05853)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Learned Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution**|Minghao Han et.al.|[2505.20984](http://arxiv.org/abs/2505.20984)|null|
+|**2025-05-28**|**A Comprehensive Real-World Assessment of Audio Watermarking Algorithms: Will They Survive Neural Codecs?**|Yigitcan Özer et.al.|[2505.19663](http://arxiv.org/abs/2505.19663)|null|
+|**2025-05-26**|**VoiceStar: Robust Zero-Shot Autoregressive TTS with Duration Control and Extrapolation**|Puyuan Peng et.al.|[2505.19462](http://arxiv.org/abs/2505.19462)|**[link](https://github.com/jasonppy/voicestar)**|
+|**2025-05-23**|**Accelerating Learned Image Compression Through Modeling Neural Training Dynamics**|Yichi Zhang et.al.|[2505.18107](http://arxiv.org/abs/2505.18107)|null|
 |**2025-05-22**|**One-Step Diffusion-Based Image Compression with Semantic Distillation**|Naifu Xue et.al.|[2505.16687](http://arxiv.org/abs/2505.16687)|null|
 |**2025-05-22**|**UBGAN: Enhancing Coded Speech with Blind and Guided Bandwidth Extension**|Kishan Gupta et.al.|[2505.16404](http://arxiv.org/abs/2505.16404)|null|
 |**2025-05-20**|**Neural Video Compression with Context Modulation**|Chuanbo Tang et.al.|[2505.14541](http://arxiv.org/abs/2505.14541)|null|
@@ -58,12 +72,17 @@
 |**2025-05-08**|**Toward a Sparse and Interpretable Audio Codec**|John Vinyard et.al.|[2505.05654](http://arxiv.org/abs/2505.05654)|**[link](https://github.com/JohnVinyard/matching-pursuit)**|
 |**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310](http://arxiv.org/abs/2505.03310)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Variable Bitrate
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Residual Diffusion Models for Variable-Rate Joint Source Channel Coding of MIMO CSI**|Sravan Kumar Ankireddy et.al.|[2505.21681](http://arxiv.org/abs/2505.21681)|null|
+|**2025-05-27**|**Joint Learning in the Gaussian Single Index Model**|Loucas Pillaud-Vivien et.al.|[2505.21336](http://arxiv.org/abs/2505.21336)|null|
+|**2025-05-29**|**A False Discovery Rate Control Method Using a Fully Connected Hidden Markov Random Field for Neuroimaging Data**|Taehyo Kim et.al.|[2505.20688](http://arxiv.org/abs/2505.20688)|null|
+|**2025-05-26**|**Rep3D: Re-parameterize Large 3D Kernels with Low-Rank Receptive Modeling for Medical Imaging**|Ho Hin Lee et.al.|[2505.19603](http://arxiv.org/abs/2505.19603)|null|
+|**2025-05-25**|**RIS-Assisted Survivable Fronthaul Design in Cell-Free Massive MIMO System**|Zhenyu Li et.al.|[2505.19152](http://arxiv.org/abs/2505.19152)|null|
 |**2025-05-19**|**Finding Distributions that Differ, with False Discovery Rate Control**|Yonghoon Lee et.al.|[2505.13769](http://arxiv.org/abs/2505.13769)|null|
 |**2025-05-21**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|null|
 |**2025-05-14**|**Model-free High Dimensional Mediator Selection with False Discovery Rate Control**|Runqiu Wang et.al.|[2505.09105](http://arxiv.org/abs/2505.09105)|null|
@@ -76,12 +95,22 @@
 |**2025-04-30**|**Data-driven operator learning for energy-efficient building control**|Yuexin Bian et.al.|[2504.21243](http://arxiv.org/abs/2504.21243)|null|
 |**2025-04-29**|**Task-Oriented Semantic Communication with Importance-Aware Rate Control**|Zhiye Sun et.al.|[2504.20441](http://arxiv.org/abs/2504.20441)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Large & Multimodal Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766](http://arxiv.org/abs/2505.23766)|null|
+|**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764](http://arxiv.org/abs/2505.23764)|null|
+|**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|null|
+|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759](http://arxiv.org/abs/2505.23759)|null|
+|**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757](http://arxiv.org/abs/2505.23757)|null|
+|**2025-05-29**|**ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**|Akashah Shabbir et.al.|[2505.23752](http://arxiv.org/abs/2505.23752)|null|
+|**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747](http://arxiv.org/abs/2505.23747)|null|
+|**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745](http://arxiv.org/abs/2505.23745)|null|
+|**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Ronghuan Wu et.al.|[2505.23740](http://arxiv.org/abs/2505.23740)|null|
+|**2025-05-29**|**PixelThink: Towards Efficient Chain-of-Pixel Reasoning**|Song Wang et.al.|[2505.23727](http://arxiv.org/abs/2505.23727)|null|
 |**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021](http://arxiv.org/abs/2505.17021)|**[link](https://github.com/mbzuai-oryx/arb)**|
 |**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
 |**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
@@ -103,7 +132,7 @@
 |**2025-05-19**|**RBF++: Quantifying and Optimizing Reasoning Boundaries across Measurable and Unmeasurable Capabilities for Chain-of-Thought Reasoning**|Qiguang Chen et.al.|[2505.13307](http://arxiv.org/abs/2505.13307)|**[link](https://github.com/lightchen233/reasoning-boundary)**|
 |**2025-05-19**|**I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models**|Alice Plebe et.al.|[2505.13302](http://arxiv.org/abs/2505.13302)|**[link](https://github.com/3lis/misinfo_vlm)**|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
