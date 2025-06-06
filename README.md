@@ -1,4 +1,4 @@
-## Updated on 2025.06.02
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**HYFuse: Aligning Heterogeneous Speech Pre-Trained Representations in Hyperbolic Space for Speech Emotion Recognition**|Orchid Chetia Phukan et.al.|[2506.03403](http://arxiv.org/abs/2506.03403)|null|
+|**2025-06-03**|**Controllable Text-to-Speech Synthesis with Masked-Autoencoded Style-Rich Representation**|Yongqi Wang et.al.|[2506.02997](http://arxiv.org/abs/2506.02997)|null|
+|**2025-06-03**|**PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing**|You Zhang et.al.|[2506.02958](http://arxiv.org/abs/2506.02958)|null|
+|**2025-06-03**|**On the Language and Gender Biases in PSTN, VoIP and Neural Audio Codecs**|Kemal Altwlkany et.al.|[2506.02545](http://arxiv.org/abs/2506.02545)|null|
+|**2025-06-02**|**Benchmarking Neural Speech Codec Intelligibility with SITool**|Anna Leschanowsky et.al.|[2506.01731](http://arxiv.org/abs/2506.01731)|null|
+|**2025-06-02**|**Flexible Mixed Precision Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01221](http://arxiv.org/abs/2506.01221)|null|
+|**2025-06-01**|**Towards Fusion of Neural Audio Codec-based Representations with Spectral for Heart Murmur Classification via Bandit-based Cross-Attention Mechanism**|Orchid Chetia Phukan et.al.|[2506.01148](http://arxiv.org/abs/2506.01148)|null|
+|**2025-06-01**|**Crowdsourcing MUSHRA Tests in the Age of Generative Speech Technologies: A Comparative Analysis of Subjective and Objective Testing Methods**|Laura Lechler et.al.|[2506.00950](http://arxiv.org/abs/2506.00950)|null|
+|**2025-06-01**|**FUSE: Universal Speech Enhancement using Multi-Stage Fusion of Sparse Compression and Token Generation Models for the URGENT 2025 Challenge**|Nabarun Goswami et.al.|[2506.00809](http://arxiv.org/abs/2506.00809)|null|
+|**2025-05-31**|**MagiCodec: Simple Masked Gaussian-Injected Codec for High-Fidelity Reconstruction and Generation**|Yakun Song et.al.|[2506.00385](http://arxiv.org/abs/2506.00385)|null|
 |**2025-05-29**|**Position Dependent Prediction Combination For Intra-Frame Video Coding**|Amir Said et.al.|[2505.23672](http://arxiv.org/abs/2505.23672)|null|
 |**2025-05-29**|**Low-Complexity Transform Adjustments For Video Coding**|Amir Said et.al.|[2505.23618](http://arxiv.org/abs/2505.23618)|null|
 |**2025-05-29**|**Vision-Integrated High-Quality Neural Speech Coding**|Yao Guo et.al.|[2505.23379](http://arxiv.org/abs/2505.23379)|null|
@@ -46,15 +56,19 @@
 |**2025-05-10**|**RADE: A Neural Codec for Transmitting Speech over HF Radio Channels**|David Rowe et.al.|[2505.06671](http://arxiv.org/abs/2505.06671)|null|
 |**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853](http://arxiv.org/abs/2505.05853)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## Learned Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**On the Language and Gender Biases in PSTN, VoIP and Neural Audio Codecs**|Kemal Altwlkany et.al.|[2506.02545](http://arxiv.org/abs/2506.02545)|null|
+|**2025-06-02**|**Structured Pruning and Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01229](http://arxiv.org/abs/2506.01229)|null|
+|**2025-06-02**|**Flexible Mixed Precision Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01221](http://arxiv.org/abs/2506.01221)|null|
+|**2025-05-30**|**Speech Token Prediction via Compressed-to-fine Language Modeling for Speech Generation**|Wenrui Liu et.al.|[2505.24496](http://arxiv.org/abs/2505.24496)|null|
 |**2025-05-27**|**Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution**|Minghao Han et.al.|[2505.20984](http://arxiv.org/abs/2505.20984)|null|
 |**2025-05-28**|**A Comprehensive Real-World Assessment of Audio Watermarking Algorithms: Will They Survive Neural Codecs?**|Yigitcan Özer et.al.|[2505.19663](http://arxiv.org/abs/2505.19663)|null|
-|**2025-05-26**|**VoiceStar: Robust Zero-Shot Autoregressive TTS with Duration Control and Extrapolation**|Puyuan Peng et.al.|[2505.19462](http://arxiv.org/abs/2505.19462)|**[link](https://github.com/jasonppy/voicestar)**|
+|**2025-05-31**|**VoiceStar: Robust Zero-Shot Autoregressive TTS with Duration Control and Extrapolation**|Puyuan Peng et.al.|[2505.19462](http://arxiv.org/abs/2505.19462)|**[link](https://github.com/jasonppy/voicestar)**|
 |**2025-05-23**|**Accelerating Learned Image Compression Through Modeling Neural Training Dynamics**|Yichi Zhang et.al.|[2505.18107](http://arxiv.org/abs/2505.18107)|null|
 |**2025-05-22**|**One-Step Diffusion-Based Image Compression with Semantic Distillation**|Naifu Xue et.al.|[2505.16687](http://arxiv.org/abs/2505.16687)|null|
 |**2025-05-22**|**UBGAN: Enhancing Coded Speech with Blind and Guided Bandwidth Extension**|Kishan Gupta et.al.|[2505.16404](http://arxiv.org/abs/2505.16404)|null|
@@ -72,12 +86,16 @@
 |**2025-05-08**|**Toward a Sparse and Interpretable Audio Codec**|John Vinyard et.al.|[2505.05654](http://arxiv.org/abs/2505.05654)|**[link](https://github.com/JohnVinyard/matching-pursuit)**|
 |**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310](http://arxiv.org/abs/2505.03310)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## Variable Bitrate
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Time domain astrophysics with transient sources. Delay estimate via Cross Correlation Function techniques**|W. Leone et.al.|[2506.04014](http://arxiv.org/abs/2506.04014)|null|
+|**2025-06-03**|**Online multi-layer FDR control**|Runqiu Wang et.al.|[2506.03406](http://arxiv.org/abs/2506.03406)|null|
+|**2025-06-02**|**e-GAI: e-value-based Generalized $α$ -Investing for Online False Discovery Rate Control**|Yifan Zhang et.al.|[2506.01452](http://arxiv.org/abs/2506.01452)|null|
+|**2025-05-30**|**ACM-UNet: Adaptive Integration of CNNs and Mamba for Efficient Medical Image Segmentation**|Jing Huang et.al.|[2505.24481](http://arxiv.org/abs/2505.24481)|null|
 |**2025-05-27**|**Residual Diffusion Models for Variable-Rate Joint Source Channel Coding of MIMO CSI**|Sravan Kumar Ankireddy et.al.|[2505.21681](http://arxiv.org/abs/2505.21681)|null|
 |**2025-05-27**|**Joint Learning in the Gaussian Single Index Model**|Loucas Pillaud-Vivien et.al.|[2505.21336](http://arxiv.org/abs/2505.21336)|null|
 |**2025-05-29**|**A False Discovery Rate Control Method Using a Fully Connected Hidden Markov Random Field for Neuroimaging Data**|Taehyo Kim et.al.|[2505.20688](http://arxiv.org/abs/2505.20688)|null|
@@ -95,12 +113,22 @@
 |**2025-04-30**|**Data-driven operator learning for energy-efficient building control**|Yuexin Bian et.al.|[2504.21243](http://arxiv.org/abs/2504.21243)|null|
 |**2025-04-29**|**Task-Oriented Semantic Communication with Importance-Aware Rate Control**|Zhiye Sun et.al.|[2504.20441](http://arxiv.org/abs/2504.20441)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## Large & Multimodal Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
+|**2025-06-04**|**Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models**|Fangrui Zhu et.al.|[2506.04220](http://arxiv.org/abs/2506.04220)|null|
+|**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|
+|**2025-06-04**|**Language-Image Alignment with Fixed Text Encoders**|Jingfeng Yang et.al.|[2506.04209](http://arxiv.org/abs/2506.04209)|null|
+|**2025-06-04**|**Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**|Shuang Chen et.al.|[2506.04207](http://arxiv.org/abs/2506.04207)|null|
+|**2025-06-04**|**VISCA: Inferring Component Abstractions for Automated End-to-End Testing**|Parsa Alian et.al.|[2506.04161](http://arxiv.org/abs/2506.04161)|null|
+|**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
+|**2025-06-04**|**MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos**|Kejian Zhu et.al.|[2506.04141](http://arxiv.org/abs/2506.04141)|null|
+|**2025-06-04**|**Recent Advances in Medical Image Classification**|Loan Dao et.al.|[2506.04129](http://arxiv.org/abs/2506.04129)|null|
+|**2025-06-05**|**Exploring over 700 massive quiescent galaxies at z = 2-7: Demographics and stellar mass functions**|William M. Baker et.al.|[2506.04119](http://arxiv.org/abs/2506.04119)|null|
 |**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766](http://arxiv.org/abs/2505.23766)|null|
 |**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764](http://arxiv.org/abs/2505.23764)|null|
 |**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|**[link](https://github.com/opengvlab/zerogui)**|
@@ -132,7 +160,7 @@
 |**2025-05-19**|**RBF++: Quantifying and Optimizing Reasoning Boundaries across Measurable and Unmeasurable Capabilities for Chain-of-Thought Reasoning**|Qiguang Chen et.al.|[2505.13307](http://arxiv.org/abs/2505.13307)|**[link](https://github.com/lightchen233/reasoning-boundary)**|
 |**2025-05-19**|**I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models**|Alice Plebe et.al.|[2505.13302](http://arxiv.org/abs/2505.13302)|**[link](https://github.com/3lis/misinfo_vlm)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
