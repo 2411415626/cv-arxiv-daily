@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.06
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Codec
@@ -27,7 +27,7 @@ layout: default
 |**2025-05-28**|**Synonymous Variational Inference for Perceptual Image Compression**|Zijian Liang et.al.|[2505.22438](http://arxiv.org/abs/2505.22438)|**[link](https://github.com/ZJLiang6412/SynonymousImageCompression)**|
 |**2025-05-27**|**Music Source Restoration**|Yongyi Zang et.al.|[2505.21827](http://arxiv.org/abs/2505.21827)|**[link](https://github.com/yongyizang/music-source-restoration)**|
 |**2025-05-27**|**Highly Efficient Non-Separable Transforms for Next Generation Video Coding**|Amir Said et.al.|[2505.21728](http://arxiv.org/abs/2505.21728)|null|
-|**2025-05-28**|**A Comprehensive Real-World Assessment of Audio Watermarking Algorithms: Will They Survive Neural Codecs?**|Yigitcan Özer et.al.|[2505.19663](http://arxiv.org/abs/2505.19663)|null|
+|**2025-05-28**|**A Comprehensive Real-World Assessment of Audio Watermarking Algorithms: Will They Survive Neural Codecs?**|Yigitcan Özer et.al.|[2505.19663](http://arxiv.org/abs/2505.19663)|**[link](https://github.com/sonyresearch/raw_bench)**|
 |**2025-05-26**|**VoiceStar: Robust Zero-Shot Autoregressive TTS with Duration Control and Extrapolation**|Puyuan Peng et.al.|[2505.19462](http://arxiv.org/abs/2505.19462)|**[link](https://github.com/jasonppy/voicestar)**|
 |**2025-05-22**|**Unlocking Temporal Flexibility: Neural Speech Codec with Variable Frame Rate**|Hanglei Zhang et.al.|[2505.16845](http://arxiv.org/abs/2505.16845)|null|
 |**2025-05-22**|**One-Step Diffusion-Based Image Compression with Semantic Distillation**|Naifu Xue et.al.|[2505.16687](http://arxiv.org/abs/2505.16687)|null|
@@ -41,7 +41,7 @@ layout: default
 |**2025-05-21**|**Rate-Distortion Optimization with Non-Reference Metrics for UGC Compression**|Samuel Fernández-Menduiña et.al.|[2505.15003](http://arxiv.org/abs/2505.15003)|null|
 |**2025-05-20**|**Universal Semantic Disentangled Privacy-preserving Speech Representation Learning**|Biel Tura Vecino et.al.|[2505.13085](http://arxiv.org/abs/2505.13085)|null|
 |**2025-05-19**|**DualCodec: A Low-Frame-Rate, Semantically-Enhanced Neural Audio Codec for Speech Generation**|Jiaqi Li et.al.|[2505.13000](http://arxiv.org/abs/2505.13000)|**[link](https://github.com/jiaqili3/DualCodec)**|
-|**2025-05-19**|**Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy**|Xuanjun Chen et.al.|[2505.12994](http://arxiv.org/abs/2505.12994)|null|
+|**2025-05-19**|**Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy**|Xuanjun Chen et.al.|[2505.12994](http://arxiv.org/abs/2505.12994)|**[link](https://github.com/responsiblegenai/codecfake-source-tracing)**|
 |**2025-05-19**|**Multi-Reference and Adaptive Nonlinear Transform Source-Channel Coding for Wireless Image Semantic Transmission**|Cheng Yuan et.al.|[2505.12740](http://arxiv.org/abs/2505.12740)|null|
 |**2025-05-15**|**UDDETTS: Unifying Discrete and Dimensional Emotions for Controllable Emotional Text-to-Speech**|Jiaxuan Liu et.al.|[2505.10599](http://arxiv.org/abs/2505.10599)|null|
 |**2025-05-14**|**A unified bonding entropy model to determine magnetic properties in graphene nanoflakes**|Chang-Chun He et.al.|[2505.09401](http://arxiv.org/abs/2505.09401)|null|
@@ -59,7 +59,7 @@ layout: default
 |**2025-06-02**|**Flexible Mixed Precision Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01221](http://arxiv.org/abs/2506.01221)|null|
 |**2025-05-30**|**Speech Token Prediction via Compressed-to-fine Language Modeling for Speech Generation**|Wenrui Liu et.al.|[2505.24496](http://arxiv.org/abs/2505.24496)|null|
 |**2025-05-27**|**Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution**|Minghao Han et.al.|[2505.20984](http://arxiv.org/abs/2505.20984)|null|
-|**2025-05-28**|**A Comprehensive Real-World Assessment of Audio Watermarking Algorithms: Will They Survive Neural Codecs?**|Yigitcan Özer et.al.|[2505.19663](http://arxiv.org/abs/2505.19663)|null|
+|**2025-05-28**|**A Comprehensive Real-World Assessment of Audio Watermarking Algorithms: Will They Survive Neural Codecs?**|Yigitcan Özer et.al.|[2505.19663](http://arxiv.org/abs/2505.19663)|**[link](https://github.com/sonyresearch/raw_bench)**|
 |**2025-05-31**|**VoiceStar: Robust Zero-Shot Autoregressive TTS with Duration Control and Extrapolation**|Puyuan Peng et.al.|[2505.19462](http://arxiv.org/abs/2505.19462)|**[link](https://github.com/jasonppy/voicestar)**|
 |**2025-05-23**|**Accelerating Learned Image Compression Through Modeling Neural Training Dynamics**|Yichi Zhang et.al.|[2505.18107](http://arxiv.org/abs/2505.18107)|null|
 |**2025-05-22**|**One-Step Diffusion-Based Image Compression with Semantic Distillation**|Naifu Xue et.al.|[2505.16687](http://arxiv.org/abs/2505.16687)|null|
@@ -88,7 +88,7 @@ layout: default
 |**2025-05-30**|**ACM-UNet: Adaptive Integration of CNNs and Mamba for Efficient Medical Image Segmentation**|Jing Huang et.al.|[2505.24481](http://arxiv.org/abs/2505.24481)|null|
 |**2025-05-27**|**Residual Diffusion Models for Variable-Rate Joint Source Channel Coding of MIMO CSI**|Sravan Kumar Ankireddy et.al.|[2505.21681](http://arxiv.org/abs/2505.21681)|null|
 |**2025-05-27**|**Joint Learning in the Gaussian Single Index Model**|Loucas Pillaud-Vivien et.al.|[2505.21336](http://arxiv.org/abs/2505.21336)|null|
-|**2025-05-29**|**A False Discovery Rate Control Method Using a Fully Connected Hidden Markov Random Field for Neuroimaging Data**|Taehyo Kim et.al.|[2505.20688](http://arxiv.org/abs/2505.20688)|null|
+|**2025-05-29**|**A False Discovery Rate Control Method Using a Fully Connected Hidden Markov Random Field for Neuroimaging Data**|Taehyo Kim et.al.|[2505.20688](http://arxiv.org/abs/2505.20688)|**[link](https://github.com/kimtae55/fchmrf-lis)**|
 |**2025-05-26**|**Rep3D: Re-parameterize Large 3D Kernels with Low-Rank Receptive Modeling for Medical Imaging**|Ho Hin Lee et.al.|[2505.19603](http://arxiv.org/abs/2505.19603)|null|
 |**2025-05-25**|**RIS-Assisted Survivable Fronthaul Design in Cell-Free Massive MIMO System**|Zhenyu Li et.al.|[2505.19152](http://arxiv.org/abs/2505.19152)|null|
 |**2025-05-19**|**Finding Distributions that Differ, with False Discovery Rate Control**|Yonghoon Lee et.al.|[2505.13769](http://arxiv.org/abs/2505.13769)|null|
