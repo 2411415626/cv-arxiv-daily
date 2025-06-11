@@ -1,4 +1,4 @@
-## Updated on 2025.06.09
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Fine-Grained Motion Compression and Selective Temporal Fusion for Neural B-Frame Video Coding**|Xihua Sheng et.al.|[2506.07709](http://arxiv.org/abs/2506.07709)|null|
+|**2025-06-09**|**LeVo: High-Quality Song Generation with Multi-Preference Alignment**|Shun Lei et.al.|[2506.07520](http://arxiv.org/abs/2506.07520)|null|
+|**2025-06-09**|**Compressed Feature Quality Assessment: Dataset and Baselines**|Changsheng Gao et.al.|[2506.07412](http://arxiv.org/abs/2506.07412)|null|
+|**2025-06-09**|**Distributed Image Semantic Communication via Nonlinear Transform Coding**|Yufei Bo et.al.|[2506.07391](http://arxiv.org/abs/2506.07391)|null|
+|**2025-06-09**|**Generative Models at the Frontier of Compression: A Survey on Generative Face Video Coding**|Bolin Chen et.al.|[2506.07369](http://arxiv.org/abs/2506.07369)|null|
+|**2025-06-10**|**Towards Generalized Source Tracing for Codec-Based Deepfake Speech**|Xuanjun Chen et.al.|[2506.07294](http://arxiv.org/abs/2506.07294)|null|
+|**2025-06-08**|**Streaming Endpointer for Spoken Dialogue using Neural Audio Codecs and Label-Delayed Training**|Sathvik Udupa et.al.|[2506.07081](http://arxiv.org/abs/2506.07081)|null|
+|**2025-06-06**|**SVD: Spatial Video Dataset**|M. H. Izadimehr et.al.|[2506.06037](http://arxiv.org/abs/2506.06037)|null|
+|**2025-06-06**|**The JPEG XL Image Coding System: History, Features, Coding Tools, Design Rationale, and Future**|Jon Sneyers et.al.|[2506.05987](http://arxiv.org/abs/2506.05987)|null|
+|**2025-06-06**|**Trajectory Entropy: Modeling Game State Stability from Multimodality Trajectory Prediction**|Yesheng Zhang et.al.|[2506.05810](http://arxiv.org/abs/2506.05810)|null|
 |**2025-06-03**|**HYFuse: Aligning Heterogeneous Speech Pre-Trained Representations in Hyperbolic Space for Speech Emotion Recognition**|Orchid Chetia Phukan et.al.|[2506.03403](http://arxiv.org/abs/2506.03403)|null|
 |**2025-06-03**|**Controllable Text-to-Speech Synthesis with Masked-Autoencoded Style-Rich Representation**|Yongqi Wang et.al.|[2506.02997](http://arxiv.org/abs/2506.02997)|null|
 |**2025-06-03**|**PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing**|You Zhang et.al.|[2506.02958](http://arxiv.org/abs/2506.02958)|null|
@@ -56,12 +66,15 @@
 |**2025-05-10**|**RADE: A Neural Codec for Transmitting Speech over HF Radio Channels**|David Rowe et.al.|[2505.06671](http://arxiv.org/abs/2505.06671)|null|
 |**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853](http://arxiv.org/abs/2505.05853)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Learned Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Fine-Grained Motion Compression and Selective Temporal Fusion for Neural B-Frame Video Coding**|Xihua Sheng et.al.|[2506.07709](http://arxiv.org/abs/2506.07709)|null|
+|**2025-06-09**|**Distributed Image Semantic Communication via Nonlinear Transform Coding**|Yufei Bo et.al.|[2506.07391](http://arxiv.org/abs/2506.07391)|null|
+|**2025-06-06**|**Trajectory Entropy: Modeling Game State Stability from Multimodality Trajectory Prediction**|Yesheng Zhang et.al.|[2506.05810](http://arxiv.org/abs/2506.05810)|null|
 |**2025-06-03**|**On the Language and Gender Biases in PSTN, VoIP and Neural Audio Codecs**|Kemal Altwlkany et.al.|[2506.02545](http://arxiv.org/abs/2506.02545)|null|
 |**2025-06-02**|**Structured Pruning and Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01229](http://arxiv.org/abs/2506.01229)|null|
 |**2025-06-02**|**Flexible Mixed Precision Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01221](http://arxiv.org/abs/2506.01221)|null|
@@ -86,12 +99,14 @@
 |**2025-05-08**|**Toward a Sparse and Interpretable Audio Codec**|John Vinyard et.al.|[2505.05654](http://arxiv.org/abs/2505.05654)|**[link](https://github.com/JohnVinyard/matching-pursuit)**|
 |**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310](http://arxiv.org/abs/2505.03310)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Variable Bitrate
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-08**|**Evolution of Rayleigh-Taylor turbulence under vorticity and strain-rate control**|Dongxiao Zhao et.al.|[2506.07012](http://arxiv.org/abs/2506.07012)|null|
+|**2025-06-05**|**FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation**|Huihan Wang et.al.|[2506.04956](http://arxiv.org/abs/2506.04956)|null|
 |**2025-06-04**|**Time domain astrophysics with transient sources. Delay estimate via Cross Correlation Function techniques**|W. Leone et.al.|[2506.04014](http://arxiv.org/abs/2506.04014)|null|
 |**2025-06-03**|**Online multi-layer FDR control**|Runqiu Wang et.al.|[2506.03406](http://arxiv.org/abs/2506.03406)|null|
 |**2025-06-02**|**e-GAI: e-value-based Generalized $α$ -Investing for Online False Discovery Rate Control**|Yifan Zhang et.al.|[2506.01452](http://arxiv.org/abs/2506.01452)|null|
@@ -113,12 +128,22 @@
 |**2025-04-30**|**Data-driven operator learning for energy-efficient building control**|Yuexin Bian et.al.|[2504.21243](http://arxiv.org/abs/2504.21243)|null|
 |**2025-04-29**|**Task-Oriented Semantic Communication with Importance-Aware Rate Control**|Zhiye Sun et.al.|[2504.20441](http://arxiv.org/abs/2504.20441)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Large & Multimodal Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
+|**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
+|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
+|**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
+|**2025-06-09**|**MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation**|Junhao Chen et.al.|[2506.07999](http://arxiv.org/abs/2506.07999)|null|
+|**2025-06-09**|**Orbit dimensions in linear and Gaussian quantum optics**|Eliott Z. Mamon et.al.|[2506.07995](http://arxiv.org/abs/2506.07995)|null|
+|**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|null|
+|**2025-06-09**|**CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray**|Mingquan Lin et.al.|[2506.07984](http://arxiv.org/abs/2506.07984)|null|
+|**2025-06-09**|**CyberV: Cybernetics for Test-time Scaling in Video Understanding**|Jiahao Meng et.al.|[2506.07971](http://arxiv.org/abs/2506.07971)|null|
+|**2025-06-09**|**SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence**|Ziyang Gong et.al.|[2506.07966](http://arxiv.org/abs/2506.07966)|null|
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
 |**2025-06-04**|**Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models**|Fangrui Zhu et.al.|[2506.04220](http://arxiv.org/abs/2506.04220)|null|
 |**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|
@@ -160,7 +185,7 @@
 |**2025-05-19**|**RBF++: Quantifying and Optimizing Reasoning Boundaries across Measurable and Unmeasurable Capabilities for Chain-of-Thought Reasoning**|Qiguang Chen et.al.|[2505.13307](http://arxiv.org/abs/2505.13307)|**[link](https://github.com/lightchen233/reasoning-boundary)**|
 |**2025-05-19**|**I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models**|Alice Plebe et.al.|[2505.13302](http://arxiv.org/abs/2505.13302)|**[link](https://github.com/3lis/misinfo_vlm)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
