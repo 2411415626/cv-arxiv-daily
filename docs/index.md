@@ -30,9 +30,9 @@ layout: default
 |**2025-06-02**|**Benchmarking Neural Speech Codec Intelligibility with SITool**|Anna Leschanowsky et.al.|[2506.01731](http://arxiv.org/abs/2506.01731)|null|
 |**2025-06-02**|**Flexible Mixed Precision Quantization for Learned Image Compression**|Md Adnan Faisal Hossain et.al.|[2506.01221](http://arxiv.org/abs/2506.01221)|null|
 |**2025-06-01**|**Towards Fusion of Neural Audio Codec-based Representations with Spectral for Heart Murmur Classification via Bandit-based Cross-Attention Mechanism**|Orchid Chetia Phukan et.al.|[2506.01148](http://arxiv.org/abs/2506.01148)|null|
-|**2025-06-01**|**Crowdsourcing MUSHRA Tests in the Age of Generative Speech Technologies: A Comparative Analysis of Subjective and Objective Testing Methods**|Laura Lechler et.al.|[2506.00950](http://arxiv.org/abs/2506.00950)|null|
+|**2025-06-01**|**Crowdsourcing MUSHRA Tests in the Age of Generative Speech Technologies: A Comparative Analysis of Subjective and Objective Testing Methods**|Laura Lechler et.al.|[2506.00950](http://arxiv.org/abs/2506.00950)|**[link](https://github.com/cisco/multilingual-speech-testing)**|
 |**2025-06-01**|**FUSE: Universal Speech Enhancement using Multi-Stage Fusion of Sparse Compression and Token Generation Models for the URGENT 2025 Challenge**|Nabarun Goswami et.al.|[2506.00809](http://arxiv.org/abs/2506.00809)|null|
-|**2025-05-31**|**MagiCodec: Simple Masked Gaussian-Injected Codec for High-Fidelity Reconstruction and Generation**|Yakun Song et.al.|[2506.00385](http://arxiv.org/abs/2506.00385)|null|
+|**2025-05-31**|**MagiCodec: Simple Masked Gaussian-Injected Codec for High-Fidelity Reconstruction and Generation**|Yakun Song et.al.|[2506.00385](http://arxiv.org/abs/2506.00385)|**[link](https://github.com/ereboas/magicodec)**|
 |**2025-05-29**|**Position Dependent Prediction Combination For Intra-Frame Video Coding**|Amir Said et.al.|[2505.23672](http://arxiv.org/abs/2505.23672)|null|
 |**2025-05-29**|**Low-Complexity Transform Adjustments For Video Coding**|Amir Said et.al.|[2505.23618](http://arxiv.org/abs/2505.23618)|null|
 |**2025-05-29**|**Vision-Integrated High-Quality Neural Speech Coding**|Yao Guo et.al.|[2505.23379](http://arxiv.org/abs/2505.23379)|null|
@@ -115,7 +115,7 @@ layout: default
 |**2025-05-26**|**Rep3D: Re-parameterize Large 3D Kernels with Low-Rank Receptive Modeling for Medical Imaging**|Ho Hin Lee et.al.|[2505.19603](http://arxiv.org/abs/2505.19603)|null|
 |**2025-05-25**|**RIS-Assisted Survivable Fronthaul Design in Cell-Free Massive MIMO System**|Zhenyu Li et.al.|[2505.19152](http://arxiv.org/abs/2505.19152)|null|
 |**2025-05-19**|**Finding Distributions that Differ, with False Discovery Rate Control**|Yonghoon Lee et.al.|[2505.13769](http://arxiv.org/abs/2505.13769)|null|
-|**2025-05-21**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|null|
+|**2025-05-21**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|**[link](https://github.com/rufimelo99/SAE-Java-Bug-Detection)**|
 |**2025-05-14**|**Model-free High Dimensional Mediator Selection with False Discovery Rate Control**|Runqiu Wang et.al.|[2505.09105](http://arxiv.org/abs/2505.09105)|null|
 |**2025-05-11**|**Semiparametric Weighted Spline Regression (SWSR) in Confirmatory Clinical Trials with Time-Varying Placebo Effects**|Tianyu Zhan et.al.|[2505.06939](http://arxiv.org/abs/2505.06939)|**[link](https://github.com/tian-yu-zhan/SWSR)**|
 |**2025-05-07**|**Conformal Survival Bands for Risk Screening under Right-Censoring**|Matteo Sesia et.al.|[2505.04568](http://arxiv.org/abs/2505.04568)|**[link](https://github.com/msesia/conformal_survival_screening)**|
@@ -141,18 +141,18 @@ layout: default
 |**2025-06-12**|**Foundation Models for Causal Inference via Prior-Data Fitted Networks**|Yuchen Ma et.al.|[2506.10914](http://arxiv.org/abs/2506.10914)|null|
 |**2025-06-12**|**Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?**|Fei Lin et.al.|[2506.10912](http://arxiv.org/abs/2506.10912)|null|
 |**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
-|**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
-|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
+|**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|**[link](https://github.com/yunfeixie233/vigal)**|
+|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|**[link](https://github.com/nickjiang2378/test-time-registers)**|
 |**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
 |**2025-06-09**|**MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation**|Junhao Chen et.al.|[2506.07999](http://arxiv.org/abs/2506.07999)|null|
-|**2025-06-09**|**Orbit dimensions in linear and Gaussian quantum optics**|Eliott Z. Mamon et.al.|[2506.07995](http://arxiv.org/abs/2506.07995)|null|
-|**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|null|
+|**2025-06-09**|**Orbit dimensions in linear and Gaussian quantum optics**|Eliott Z. Mamon et.al.|[2506.07995](http://arxiv.org/abs/2506.07995)|**[link](https://github.com/eliott-zm/bosonic-orbit-dimensions)**|
+|**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|**[link](https://github.com/vchitect/taca)**|
 |**2025-06-09**|**CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray**|Mingquan Lin et.al.|[2506.07984](http://arxiv.org/abs/2506.07984)|null|
-|**2025-06-09**|**CyberV: Cybernetics for Test-time Scaling in Video Understanding**|Jiahao Meng et.al.|[2506.07971](http://arxiv.org/abs/2506.07971)|null|
-|**2025-06-09**|**SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence**|Ziyang Gong et.al.|[2506.07966](http://arxiv.org/abs/2506.07966)|null|
+|**2025-06-09**|**CyberV: Cybernetics for Test-time Scaling in Video Understanding**|Jiahao Meng et.al.|[2506.07971](http://arxiv.org/abs/2506.07971)|**[link](https://github.com/marinero4972/cyberv)**|
+|**2025-06-09**|**SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence**|Ziyang Gong et.al.|[2506.07966](http://arxiv.org/abs/2506.07966)|**[link](https://github.com/cuzyoung/space-10)**|
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
 |**2025-06-04**|**Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models**|Fangrui Zhu et.al.|[2506.04220](http://arxiv.org/abs/2506.04220)|null|
-|**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|
+|**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|**[link](https://github.com/hhyhrhy/owmm-agent)**|
 |**2025-06-04**|**Language-Image Alignment with Fixed Text Encoders**|Jingfeng Yang et.al.|[2506.04209](http://arxiv.org/abs/2506.04209)|null|
 |**2025-06-04**|**Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**|Shuang Chen et.al.|[2506.04207](http://arxiv.org/abs/2506.04207)|null|
 |**2025-06-04**|**VISCA: Inferring Component Abstractions for Automated End-to-End Testing**|Parsa Alian et.al.|[2506.04161](http://arxiv.org/abs/2506.04161)|null|
