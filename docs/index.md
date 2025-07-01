@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Codec
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
+|**2025-06-27**|**StableCodec: Taming One-Step Diffusion for Extreme Image Compression**|Tianyu Zhang et.al.|[2506.21977](http://arxiv.org/abs/2506.21977)|null|
+|**2025-06-27**|**End-to-End RGB-IR Joint Image Compression With Channel-wise Cross-modality Entropy Model**|Haofeng Wang et.al.|[2506.21851](http://arxiv.org/abs/2506.21851)|null|
+|**2025-06-26**|**CodecSlime: Temporal Redundancy Compression of Neural Speech Codec via Dynamic Frame Rate**|Hankun Wang et.al.|[2506.21074](http://arxiv.org/abs/2506.21074)|null|
 |**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|null|
 |**2025-06-24**|**Video Compression for Spatiotemporal Earth System Data**|Oscar J. Pellicer-Valero et.al.|[2506.19656](http://arxiv.org/abs/2506.19656)|null|
 |**2025-06-24**|**Explicit Residual-Based Scalable Image Coding for Humans and Machines**|Yui Tatsumi et.al.|[2506.19297](http://arxiv.org/abs/2506.19297)|null|
@@ -86,6 +90,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
+|**2025-06-27**|**End-to-End RGB-IR Joint Image Compression With Channel-wise Cross-modality Entropy Model**|Haofeng Wang et.al.|[2506.21851](http://arxiv.org/abs/2506.21851)|null|
 |**2025-06-24**|**Explicit Residual-Based Scalable Image Coding for Humans and Machines**|Yui Tatsumi et.al.|[2506.19297](http://arxiv.org/abs/2506.19297)|null|
 |**2025-06-23**|**NIC-RobustBench: A Comprehensive Open-Source Toolkit for Neural Image Compression and Robustness Analysis**|Georgii Bychkov et.al.|[2506.19051](http://arxiv.org/abs/2506.19051)|null|
 |**2025-06-23**|**Bayesian decomposition using Besov priors**|Andreas Horst et.al.|[2506.18846](http://arxiv.org/abs/2506.18846)|null|
@@ -125,6 +131,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Distillation-Enabled Knowledge Alignment for Generative Semantic Communications in AIGC Provisioning Tasks**|Jingzhi Hu et.al.|[2506.19893](http://arxiv.org/abs/2506.19893)|null|
 |**2025-06-24**|**Explicit Residual-Based Scalable Image Coding for Humans and Machines**|Yui Tatsumi et.al.|[2506.19297](http://arxiv.org/abs/2506.19297)|null|
 |**2025-06-20**|**Testing Separability of High-Dimensional Covariance Matrices**|Bongjung Sung et.al.|[2506.17463](http://arxiv.org/abs/2506.17463)|null|
 |**2025-06-19**|**Towards Bitrate-Efficient and Noise-Robust Speech Coding with Variable Bitrate RVQ**|Yunkee Chae et.al.|[2506.16538](http://arxiv.org/abs/2506.16538)|null|
@@ -160,6 +167,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434](http://arxiv.org/abs/2506.22434)|null|
+|**2025-06-27**|**Mesoscale properties of protein clusters determine the size and nature of liquid-liquid phase separation (LLPS)**|Gonen Golani et.al.|[2506.22424](http://arxiv.org/abs/2506.22424)|null|
+|**2025-06-27**|**HyperCLOVA X THINK Technical Report**|NAVER Cloud HyperCLOVA X Team et.al.|[2506.22403](http://arxiv.org/abs/2506.22403)|null|
+|**2025-06-27**|**Test-Time Consistency in Vision Language Models**|Shih-Han Chou et.al.|[2506.22395](http://arxiv.org/abs/2506.22395)|null|
+|**2025-06-27**|**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**|Yue Zhang et.al.|[2506.22385](http://arxiv.org/abs/2506.22385)|null|
+|**2025-06-27**|**Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation**|Tiankai Chen et.al.|[2506.22375](http://arxiv.org/abs/2506.22375)|null|
+|**2025-06-27**|**Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems**|Abdulmomen Ghalkha et.al.|[2506.22374](http://arxiv.org/abs/2506.22374)|null|
+|**2025-06-27**|**Robotic Multimodal Data Acquisition for In-Field Deep Learning Estimation of Cover Crop Biomass**|Joe Johnson et.al.|[2506.22364](http://arxiv.org/abs/2506.22364)|null|
+|**2025-06-27**|**From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications**|Nouf Almesafri et.al.|[2506.22360](http://arxiv.org/abs/2506.22360)|null|
+|**2025-06-27**|**Concept-Level AI for Telecom: Moving Beyond Large Language Models**|Viswanath Kumarskandpriya et.al.|[2506.22359](http://arxiv.org/abs/2506.22359)|null|
 |**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
 |**2025-06-24**|**ScaleCap: Inference-Time Scalable Image Captioning via Dual-Modality Debiasing**|Long Xing et.al.|[2506.19848](http://arxiv.org/abs/2506.19848)|null|
 |**2025-06-24**|**Orthogonal Finetuning Made Scalable**|Zeju Qiu et.al.|[2506.19847](http://arxiv.org/abs/2506.19847)|null|
